@@ -10,6 +10,11 @@
 </h1>
 
 <div align="center">
+  <a href="https://t.me/tymkova">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+
+<div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm51bXBtcGR4a2JkbHM4dTZhOW10OWR1bGd6NHB2MWg2b3dobTNlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif" width="200" height="200"/>
 </div>
 
