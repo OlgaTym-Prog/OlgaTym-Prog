@@ -9,6 +9,11 @@
   </div>     
 </h1>
 
+<div id="badges">
+  <a href="@tymkova">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+  </a>
+
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdnZDJsM3RjbnZoNDRzMWowcThyaWx5bG80Mm1oZHFzMXp3emRhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="600" height="300"/>
 </div>
@@ -20,15 +25,17 @@
 ---
 
 ### :woman_technologist: Обо мне :
-Я Python-разработчик, начинающий свою карьеру в IT. 
+Я Python-разработчик, начинающий свою карьеру в IT :octocat:
 
 Недавно завершила курсы повышения квалификации и уже реализовала несколько интересных проектов. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: Разрабатываю веб-приложения на Django.
+- :dependabot: Разрабатываю веб-приложения на Django.
 
 - :seedling: Создаю REST API и работаю с базами данных PostgreSQL.
 
-- :zap: Изучаю новые технологии, такие как Docker и CI/CD.
+- :telescope: Изучаю новые технологии, такие как Docker и CI/CD.
+
+- :mailbox: 
 
 ---
 
@@ -53,7 +60,11 @@
 </div>
 
 ---
+### :open_file_folder: Мои проекты :
+- [App_for_social_network] (https://github.com/OlgaTym-Prog/app_for_social_network): Социальная сеть для обмена фотографиями.
+- [Telegram_bot] (https://github.com/OlgaTym-Prog/telegram_bot): Words bot: Telegram-бот "Обучалка английскому языку".
 
+---
 ### :fire: Моя статистика :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OlgaTym-Prog&theme=dark&background=000000)](https://git.io/streak-stats)
 
