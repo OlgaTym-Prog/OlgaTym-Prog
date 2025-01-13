@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnRpNXp4ZzV6eW14aG15OXc5b2gwbGlhMXd3MDl2b3JzYWNodHZiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"width="200"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnRpNXp4ZzV6eW14aG15OXc5b2gwbGlhMXd3MDl2b3JzYWNodHZiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"width="300"/>
 </div>
 
 <h1>
@@ -9,13 +9,13 @@
   </div>     
 </h1>
 
-<div align="center">
+<div id="badges">
   <a href="https://t.me/tymkova">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm51bXBtcGR4a2JkbHM4dTZhOW10OWR1bGd6NHB2MWg2b3dobTNlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif" width="200" height="200"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm51bXBtcGR4a2JkbHM4dTZhOW10OWR1bGd6NHB2MWg2b3dobTNlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif"width="300"/>
 </div>
 
 <div align="center">
