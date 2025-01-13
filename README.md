@@ -10,7 +10,7 @@
 </h1>
 
 <div id="badges">
-  <a href="@tymkova">
+  <a href="https://web.telegram.org/a/">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
 
