@@ -20,15 +20,15 @@
 ---
 
 ### :woman_technologist: Обо мне :
-Я начинающий Python - разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Я Python-разработчик, начинающий свою карьеру в IT. 
 
-Учусь создавать веб-приложения с использованием Python и изучаю Django.
+Недавно завершила курсы повышения квалификации и уже реализовала несколько интересных проектов. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: В данный момент являюсь студентом образовательной платформы.
+- :telescope: Разрабатываю веб-приложения на Django.
 
-- :seedling: Изучаю SQL и базы данных.
+- :seedling: Создаю REST API и работаю с базами данных PostgreSQL.
 
-- :zap: Ищу возможности для участия в open-source проектах.
+- :zap: Изучаю новые технологии, такие как Docker и CI/CD.
 
 ---
 
