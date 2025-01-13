@@ -9,13 +9,8 @@
   </div>     
 </h1>
 
-<div id="badges">
-  <a href="https://web.telegram.org/a/">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
-  </a>
-
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdnZDJsM3RjbnZoNDRzMWowcThyaWx5bG80Mm1oZHFzMXp3emRhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="600" height="300"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm51bXBtcGR4a2JkbHM4dTZhOW10OWR1bGd6NHB2MWg2b3dobTNlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif" width="200" height="200"/>
 </div>
 
 <div align="center">
@@ -27,15 +22,13 @@
 ### :woman_technologist: Обо мне :
 Я Python-разработчик, начинающий свою карьеру в IT :octocat:
 
-Недавно завершила курсы повышения квалификации и уже реализовала несколько интересных проектов. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Недавно завершила курсы повышения квалификации и уже реализовала несколько интересных проектов <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :dependabot: Разрабатываю веб-приложения на Django.
 
 - :seedling: Создаю REST API и работаю с базами данных PostgreSQL.
 
 - :telescope: Изучаю новые технологии, такие как Docker и CI/CD.
-
-- :mailbox: 
 
 ---
 
@@ -66,6 +59,4 @@
 
 ---
 ### :fire: Моя статистика :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OlgaTym-Prog&theme=dark&background=000000)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaTym-Prog&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
