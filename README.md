@@ -9,11 +9,6 @@
   </div>     
 </h1>
 
-<div id="badges">
-  <a href="https://t.me/tymkova">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm51bXBtcGR4a2JkbHM4dTZhOW10OWR1bGd6NHB2MWg2b3dobTNlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif"width="300"/>
 </div>
@@ -27,7 +22,7 @@
 ### :woman_technologist: Обо мне :
 Я Python-разработчик, начинающий свою карьеру в IT :octocat:
 
-Недавно завершила курсы повышения квалификации и уже реализовала несколько интересных проектов <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Недавно завершила курсы профессиональной переподготовки и уже реализовала несколько интересных проектов <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :dependabot: Разрабатываю веб-приложения на Django.
 
