@@ -10,10 +10,6 @@
 </h1>
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm51bXBtcGR4a2JkbHM4dTZhOW10OWR1bGd6NHB2MWg2b3dobTNlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif"width="300"/>
-</div>
-
-<div align="center">
 <img src="https://komarev.com/ghpvc/?username=OlgaTym-Prog&style=flat-square&color=blue" alt=""/>
 </div>
 
@@ -56,6 +52,9 @@
 ### :open_file_folder: Мои проекты :
 - [App_for_social_network] (https://github.com/OlgaTym-Prog/app_for_social_network): Социальная сеть для обмена фотографиями.
 - [Telegram_bot] (https://github.com/OlgaTym-Prog/telegram_bot): Words bot: Telegram-бот "Обучалка английскому языку".
+
+---
+### :page_with_curl: Сертификаты Нетологии :
 
 ---
 ### :fire: Моя статистика :
