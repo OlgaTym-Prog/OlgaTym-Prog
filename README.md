@@ -50,8 +50,9 @@
 
 ---
 ### :open_file_folder: Мои проекты :
-- [App_for_social_network](https://github.com/OlgaTym-Prog/app_for_social_network): Социальная сеть для обмена фотографиями.
-- [Telegram_bot](https://github.com/OlgaTym-Prog/telegram_bot): Words bot: Telegram-бот "Обучалка английскому языку".
+- [Дипломная работа](https://github.com/OlgaTym-Prog/app_for_social_network): Социальная сеть для обмена фотографиями.
+- [Курсовая работа](https://github.com/OlgaTym-Prog/telegram_bot): Words bot: Telegram-бот "Обучалка английскому языку".
+- [Тестовое задание на бэкенд-разработчика от компании Guild-of-developers](https://github.com/OlgaTym-Prog/to-do_list): To-Do List API.
 
 ---
 ### :page_with_curl: Сертификаты Нетологии :
