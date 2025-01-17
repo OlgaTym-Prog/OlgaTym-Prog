@@ -50,11 +50,16 @@
 
 ---
 ### :open_file_folder: Мои проекты :
-- [App_for_social_network] (https://github.com/OlgaTym-Prog/app_for_social_network): Социальная сеть для обмена фотографиями.
-- [Telegram_bot] (https://github.com/OlgaTym-Prog/telegram_bot): Words bot: Telegram-бот "Обучалка английскому языку".
+- [App_for_social_network](https://github.com/OlgaTym-Prog/app_for_social_network): Социальная сеть для обмена фотографиями.
+- [Telegram_bot](https://github.com/OlgaTym-Prog/telegram_bot): Words bot: Telegram-бот "Обучалка английскому языку".
 
 ---
 ### :page_with_curl: Сертификаты Нетологии :
+- [Основы Python](https://netology.ru/sharing/ba4884a9befdc995ec2d04dae0d9955e?utm_source=social&utm_campaign=certificate_lms)
+- [Git](https://netology.ru/sharing/a4efbccc0c3ce6cc5c137dc52bbdb53a?utm_source=social&utm_campaign=certificate_lms)
+- [ООП и работа с API](https://netology.ru/sharing/1f451a6c329fc4a66ee7c978df25c782?utm_source=social&utm_campaign=certificate_lms)
+- [Базы данных для pyhon-разработчиков](https://netology.ru/sharing/62431784e651a675fbb08d693ec40c9d?utm_source=social&utm_campaign=certificate_lms)
+- [Основы Django](https://netology.ru/sharing/c22509c2010bcdba13a3089e0eb2e65a?utm_source=social&utm_campaign=certificate_lms)
 
 ---
 ### :fire: Моя статистика :
