@@ -56,7 +56,7 @@
 
 ---
 ### :page_with_curl: Сертификаты Нетологии :
-- [Основы Python](https://netology.ru/backend/api/user/programs/51460/pdf_certificate)
+- [Основы Python](https://github.com/OlgaTym-Prog/OlgaTym-Prog/blob/main/Python.pdf)
 - [Git](https://netology.ru/sharing/a4efbccc0c3ce6cc5c137dc52bbdb53a?utm_source=social&utm_campaign=certificate_lms)
 - [ООП и работа с API](https://netology.ru/sharing/1f451a6c329fc4a66ee7c978df25c782?utm_source=social&utm_campaign=certificate_lms)
 - [Базы данных для pyhon-разработчиков](https://netology.ru/sharing/62431784e651a675fbb08d693ec40c9d?utm_source=social&utm_campaign=certificate_lms)
