@@ -52,16 +52,19 @@
 ### :open_file_folder: Мои проекты :
 - [Дипломная работа](https://github.com/OlgaTym-Prog/app_for_social_network): Социальная сеть для обмена фотографиями.
 - [Курсовая работа](https://github.com/OlgaTym-Prog/telegram_bot): Words bot: Telegram-бот "Обучалка английскому языку".
+- [Курсовая работа](https://github.com/OlgaTym-Prog/backup): Резервное копирование.
 - [Тестовое задание на бэкенд-разработчика от компании Guild-of-developers](https://github.com/OlgaTym-Prog/to-do_list): To-Do List API.
 
 ---
 ### :page_with_curl: Сертификаты Нетологии :
+- [Python-разработчик с нуля](https://github.com/OlgaTym-Prog/OlgaTym-Prog/blob/main/Python-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%20%D1%81%20%D0%BD%D1%83%D0%BB%D1%8F.pdf)
 - [Основы Python](https://github.com/OlgaTym-Prog/OlgaTym-Prog/blob/main/Python.pdf)
-- [Git](https://netology.ru/sharing/a4efbccc0c3ce6cc5c137dc52bbdb53a?utm_source=social&utm_campaign=certificate_lms)
-- [ООП и работа с API](https://netology.ru/sharing/1f451a6c329fc4a66ee7c978df25c782?utm_source=social&utm_campaign=certificate_lms)
-- [Базы данных для pyhon-разработчиков](https://netology.ru/sharing/62431784e651a675fbb08d693ec40c9d?utm_source=social&utm_campaign=certificate_lms)
-- [Основы Django](https://netology.ru/sharing/c22509c2010bcdba13a3089e0eb2e65a?utm_source=social&utm_campaign=certificate_lms)
-
+- [Git](https://github.com/OlgaTym-Prog/OlgaTym-Prog/blob/main/Git.pdf)
+- [ООП и работа с API](https://github.com/OlgaTym-Prog/OlgaTym-Prog/blob/main/%D0%9E%D0%9E%D0%9F%20%D0%B8%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20API.pdf)
+- [Базы данных для pyhon-разработчиков](https://github.com/OlgaTym-Prog/OlgaTym-Prog/blob/main/%D0%91%D0%B0%D0%B7%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.pdf)
+- [Основы Django](https://github.com/OlgaTym-Prog/OlgaTym-Prog/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20Django.pdf)
+- [Soft Skills](https://github.com/OlgaTym-Prog/OlgaTym-Prog/blob/main/Soft%20Skills.pdf)
+- [Компьютерная грамотность](https://github.com/OlgaTym-Prog/OlgaTym-Prog/blob/main/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%8F%20%D0%B3%D1%80%D0%B0%D0%BC%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C.pdf)
 ---
 ### :fire: Моя статистика :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaTym-Prog&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
