@@ -16,9 +16,9 @@
 ---
 
 ### :woman_technologist: Обо мне :
-Я Python-разработчик, начинающий свою карьеру в IT :octocat:
+Я — Python-разработчик с опытом создания веб-сервисов на Django, разработки API, работы с базами данных и внедрения CI/CD процессов. :octocat:
 
-Недавно завершила курсы профессиональной переподготовки и уже реализовала несколько интересных проектов <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Мой технический бэкграунд дополняется знаниями в области Git, GitLab, GitHub, Docker и SQL. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :dependabot: Разрабатываю веб-приложения на Django.
 
